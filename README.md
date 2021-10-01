@@ -16,7 +16,11 @@ javac *.java
 Step 4:
 java ChatServer
 
-Step 5:
+Step 5-1:
 java ChatClient user1  
+
+Step 5-2:
 java ChatClient user2
+
+Step 5-3:
 java ChatClient user3
