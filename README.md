@@ -6,7 +6,7 @@ Step 2:
 Set variable in path:
 Advanced System Setting/Environment Variable/System Variable/path
 
-dar path in ra vared mikonom:
+Path:
 C:\Program Files\Java\jdk-12.0.2\bin
 
 Step 3:
